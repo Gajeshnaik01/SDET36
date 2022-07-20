@@ -9,8 +9,8 @@ public class PraticeTest1 {
 	public void test1() {
 		
 		
-		String browser=System.getProperty("BROWSER");
-		String url=System.getProperty("URL");
+		String browser=System.getProperty("browser");
+		String url=System.getProperty("url");
 		String un=System.getProperty("USERNAME");
 		String pwd=System.getProperty("PASSWORD");
 		System.out.println("test1 --> PraticeTest1");
